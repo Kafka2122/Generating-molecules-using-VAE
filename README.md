@@ -1,0 +1,1 @@
+I implemented a Variational Autoencoder (VAE) model for molecular generation. The objective was to generate novel molecular structures based on a given dataset of molecular representations in SMILES format. 
